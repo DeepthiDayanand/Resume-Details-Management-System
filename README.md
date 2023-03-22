@@ -1,7 +1,7 @@
 Semester V DBMS Project to build a simple front end to display operations performed on a database.
 This database hold records of resume details. The application can be used to display, edit and delete the data within the database.
+
 The necessary requirements for this project includes - 
-Tools required:
 1. Python: https://www.python.org/downloads/
 2. PyCharm: PyCharm is a dedicated Python Integrated Development Environment (IDE)
 providing a wide range of essential tools for Python developers. https://www.jetbrains.com/
