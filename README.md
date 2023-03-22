@@ -4,8 +4,7 @@ This database hold records of resume details. The application can be used to dis
 The necessary requirements for this project includes - 
 1. Python: https://www.python.org/downloads/
 2. PyCharm: PyCharm is a dedicated Python Integrated Development Environment (IDE)
-providing a wide range of essential tools for Python developers. https://www.jetbrains.com/
-pycharm/download/#section=windows
+providing a wide range of essential tools for Python developers. https://www.jetbrains.com/pycharm/download/#section=windows
 3. Streamlit: It is an open source app framework in Python language. It helps us create web
 apps for data science and machine learning in a short time. It is compatible with major
 Python libraries. Command: pip install streamlit
